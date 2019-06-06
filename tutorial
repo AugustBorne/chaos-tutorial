@@ -1,9 +1,22 @@
 <HTML><HEAD>
 <TITLE>LoC RPG Guide</TITLE>
+<STYLE>
+ p {
+   text-indent : 10;
+ }
+ #sidebar {
+   color : rgb(161, 176, 201);
+   font-size : 10;
+   text-indent : 15;
+ }
+</STYLE>
 </HEAD>
 <BODY TEXT="#FFFFFF" BGCOLOR="#000000" LINK="#3131CE" VLINK="#FF0000" ALINK="#639C9C">
 <PRE>
 <CENTER><B><FONT SIZE=6><FONT COLOR="#FF0000"></FONT></B>
-	<p></p>
+        <h1>Legends of Chaos</h1>
+	<h3><br>What is LoC?</h3>
+	<p>LoC is a text based role playing game, where any character or style of story you'd like can come to life. With simple rules of battle and stats, with as little math as possible, it aims to be a game that can be easily enjoyed by anyone who'd like to play a casual role playing game.<br><br></p>
+	<p id="sidebar">(Just a sidebar)</p>
 </PRE>
 </HTML> 
